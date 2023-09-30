@@ -11,7 +11,7 @@ import SwiftUI
 struct Pro_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ItemsShuffle()
+            SpriteKitGuide()
         }
     }
 }

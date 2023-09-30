@@ -10,8 +10,18 @@
 		990247F62A7965B300935202 /* Optionals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990247F52A7965B300935202 /* Optionals.swift */; };
 		990247F82A797DB900935202 /* AnimatableFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990247F72A797DB900935202 /* AnimatableFont.swift */; };
 		990247FA2A7981AF00935202 /* ForegroundColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990247F92A7981AF00935202 /* ForegroundColor.swift */; };
+		990ADA242AC1A2B60072415C /* BlurredBackgrounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990ADA232AC1A2B60072415C /* BlurredBackgrounds.swift */; };
+		990ADA262AC1A7300072415C /* SpriteKitGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990ADA252AC1A7300072415C /* SpriteKitGuide.swift */; };
 		995804B92A8BA53D00B13E24 /* OverridingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 995804B82A8BA53D00B13E24 /* OverridingAnimations.swift */; };
 		995804BB2A8BB37200B13E24 /* AdvancedTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 995804BA2A8BB37200B13E24 /* AdvancedTransitions.swift */; };
+		998ED13C2AB9B9AB009BF423 /* AdaptiveLayouts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998ED13B2AB9B9AB009BF423 /* AdaptiveLayouts.swift */; };
+		998ED13E2AB9BEC1009BF423 /* RadialLayouts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998ED13D2AB9BEC1009BF423 /* RadialLayouts.swift */; };
+		998ED1402ABAD0E7009BF423 /* EqualWidthLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998ED13F2ABAD0E7009BF423 /* EqualWidthLayout.swift */; };
+		998ED1422ABBD9CB009BF423 /* RelativeWidthLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998ED1412ABBD9CB009BF423 /* RelativeWidthLayout.swift */; };
+		998ED1442ABBF3BC009BF423 /* MasonryLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998ED1432ABBF3BC009BF423 /* MasonryLayout.swift */; };
+		998ED1462ABC1D59009BF423 /* DrawingWithCanvas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998ED1452ABC1D59009BF423 /* DrawingWithCanvas.swift */; };
+		998ED1482ABC24F0009BF423 /* FallingSnow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998ED1472ABC24F0009BF423 /* FallingSnow.swift */; };
+		998ED14A2ABC3CE2009BF423 /* LavaLamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998ED1492ABC3CE2009BF423 /* LavaLamp.swift */; };
 		99A4B8782A8BA0D500A35AA1 /* EdgeBounce.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A4B8772A8BA0D500A35AA1 /* EdgeBounce.swift */; };
 		99BB97D02A7C1829007F011D /* AnimatableViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99BB97CF2A7C1829007F011D /* AnimatableViews.swift */; };
 		99C43AFF2A7952A3002920D2 /* ItemsShuffle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99C43AFE2A7952A3002920D2 /* ItemsShuffle.swift */; };
@@ -23,14 +33,25 @@
 		99DE12F82AA0C576009A7DA2 /* EnvironmentLessions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DE12F72AA0C576009A7DA2 /* EnvironmentLessions.swift */; };
 		99DE12FA2AA0E133009A7DA2 /* OverridingEnvironment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DE12F92AA0E133009A7DA2 /* OverridingEnvironment.swift */; };
 		99DE12FC2AA0E293009A7DA2 /* LearningPreferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DE12FB2AA0E293009A7DA2 /* LearningPreferences.swift */; };
+		99DE12FE2AA0E778009A7DA2 /* AnchorPreferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DE12FD2AA0E778009A7DA2 /* AnchorPreferences.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		990247F52A7965B300935202 /* Optionals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Optionals.swift; sourceTree = "<group>"; };
 		990247F72A797DB900935202 /* AnimatableFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatableFont.swift; sourceTree = "<group>"; };
 		990247F92A7981AF00935202 /* ForegroundColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForegroundColor.swift; sourceTree = "<group>"; };
+		990ADA232AC1A2B60072415C /* BlurredBackgrounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurredBackgrounds.swift; sourceTree = "<group>"; };
+		990ADA252AC1A7300072415C /* SpriteKitGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpriteKitGuide.swift; sourceTree = "<group>"; };
 		995804B82A8BA53D00B13E24 /* OverridingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverridingAnimations.swift; sourceTree = "<group>"; };
 		995804BA2A8BB37200B13E24 /* AdvancedTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedTransitions.swift; sourceTree = "<group>"; };
+		998ED13B2AB9B9AB009BF423 /* AdaptiveLayouts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptiveLayouts.swift; sourceTree = "<group>"; };
+		998ED13D2AB9BEC1009BF423 /* RadialLayouts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadialLayouts.swift; sourceTree = "<group>"; };
+		998ED13F2ABAD0E7009BF423 /* EqualWidthLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EqualWidthLayout.swift; sourceTree = "<group>"; };
+		998ED1412ABBD9CB009BF423 /* RelativeWidthLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeWidthLayout.swift; sourceTree = "<group>"; };
+		998ED1432ABBF3BC009BF423 /* MasonryLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasonryLayout.swift; sourceTree = "<group>"; };
+		998ED1452ABC1D59009BF423 /* DrawingWithCanvas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingWithCanvas.swift; sourceTree = "<group>"; };
+		998ED1472ABC24F0009BF423 /* FallingSnow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FallingSnow.swift; sourceTree = "<group>"; };
+		998ED1492ABC3CE2009BF423 /* LavaLamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LavaLamp.swift; sourceTree = "<group>"; };
 		99A4B8772A8BA0D500A35AA1 /* EdgeBounce.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EdgeBounce.swift; sourceTree = "<group>"; };
 		99BB97CF2A7C1829007F011D /* AnimatableViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatableViews.swift; sourceTree = "<group>"; };
 		99C43AFE2A7952A3002920D2 /* ItemsShuffle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemsShuffle.swift; sourceTree = "<group>"; };
@@ -42,6 +63,7 @@
 		99DE12F72AA0C576009A7DA2 /* EnvironmentLessions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentLessions.swift; sourceTree = "<group>"; };
 		99DE12F92AA0E133009A7DA2 /* OverridingEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverridingEnvironment.swift; sourceTree = "<group>"; };
 		99DE12FB2AA0E293009A7DA2 /* LearningPreferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningPreferences.swift; sourceTree = "<group>"; };
+		99DE12FD2AA0E778009A7DA2 /* AnchorPreferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnchorPreferences.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +110,17 @@
 				995804BA2A8BB37200B13E24 /* AdvancedTransitions.swift */,
 				99DE12F92AA0E133009A7DA2 /* OverridingEnvironment.swift */,
 				99DE12FB2AA0E293009A7DA2 /* LearningPreferences.swift */,
+				99DE12FD2AA0E778009A7DA2 /* AnchorPreferences.swift */,
+				998ED13B2AB9B9AB009BF423 /* AdaptiveLayouts.swift */,
+				998ED13D2AB9BEC1009BF423 /* RadialLayouts.swift */,
+				998ED13F2ABAD0E7009BF423 /* EqualWidthLayout.swift */,
+				998ED1412ABBD9CB009BF423 /* RelativeWidthLayout.swift */,
+				998ED1432ABBF3BC009BF423 /* MasonryLayout.swift */,
+				998ED1452ABC1D59009BF423 /* DrawingWithCanvas.swift */,
+				998ED1472ABC24F0009BF423 /* FallingSnow.swift */,
+				998ED1492ABC3CE2009BF423 /* LavaLamp.swift */,
+				990ADA232AC1A2B60072415C /* BlurredBackgrounds.swift */,
+				990ADA252AC1A7300072415C /* SpriteKitGuide.swift */,
 				99DAD3CD2A7732D600953AED /* Assets.xcassets */,
 				99DAD3CF2A7732D600953AED /* Preview Content */,
 			);
@@ -180,17 +213,28 @@
 			files = (
 				99DE12FC2AA0E293009A7DA2 /* LearningPreferences.swift in Sources */,
 				99DE12F82AA0C576009A7DA2 /* EnvironmentLessions.swift in Sources */,
+				998ED1422ABBD9CB009BF423 /* RelativeWidthLayout.swift in Sources */,
 				990247F82A797DB900935202 /* AnimatableFont.swift in Sources */,
+				998ED1482ABC24F0009BF423 /* FallingSnow.swift in Sources */,
 				995804B92A8BA53D00B13E24 /* OverridingAnimations.swift in Sources */,
 				99DAD3CC2A7732CF00953AED /* ContentView.swift in Sources */,
+				998ED14A2ABC3CE2009BF423 /* LavaLamp.swift in Sources */,
 				99DE12FA2AA0E133009A7DA2 /* OverridingEnvironment.swift in Sources */,
 				990247FA2A7981AF00935202 /* ForegroundColor.swift in Sources */,
 				99C43AFF2A7952A3002920D2 /* ItemsShuffle.swift in Sources */,
+				998ED1442ABBF3BC009BF423 /* MasonryLayout.swift in Sources */,
+				998ED1462ABC1D59009BF423 /* DrawingWithCanvas.swift in Sources */,
+				998ED1402ABAD0E7009BF423 /* EqualWidthLayout.swift in Sources */,
+				998ED13C2AB9B9AB009BF423 /* AdaptiveLayouts.swift in Sources */,
 				99A4B8782A8BA0D500A35AA1 /* EdgeBounce.swift in Sources */,
 				99DAD3CA2A7732CF00953AED /* Pro_SwiftUIApp.swift in Sources */,
 				990247F62A7965B300935202 /* Optionals.swift in Sources */,
+				998ED13E2AB9BEC1009BF423 /* RadialLayouts.swift in Sources */,
+				99DE12FE2AA0E778009A7DA2 /* AnchorPreferences.swift in Sources */,
+				990ADA242AC1A2B60072415C /* BlurredBackgrounds.swift in Sources */,
 				995804BB2A8BB37200B13E24 /* AdvancedTransitions.swift in Sources */,
 				99BB97D02A7C1829007F011D /* AnimatableViews.swift in Sources */,
+				990ADA262AC1A7300072415C /* SpriteKitGuide.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
